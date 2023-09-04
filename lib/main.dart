@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:practice3/animal_Page.dart';
 import 'package:practice3/model.dart';
 
+// 안녕하세요
 void main() {
   runApp(const MyApp());
 }
